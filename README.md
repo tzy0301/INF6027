@@ -1,9 +1,4 @@
 
----
-
-### 📄 英文版 README (`README_EN.md`)  
-
-```markdown
 # Spotify Death Metal Analysis  
 
 ## Project Objective  
