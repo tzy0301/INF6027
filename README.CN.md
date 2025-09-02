@@ -51,7 +51,7 @@
 ## 使用方法  
 
 1. Clone 專案到本地端，並於 RStudio 開啟 `death_metal_analysis.R`。  
-2. 安裝必要套件：  
+2. 安裝必要套件，然後執行程式碼即可重現分析與視覺化結果：   
 
 ```R
 install.packages(c("ggplot2", "reshape2", "FactoMineR", "factoextra", "plotly", "tidyverse", "caTools"))
